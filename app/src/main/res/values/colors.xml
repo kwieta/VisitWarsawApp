@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#451e3e</color>
+    <color name="colorPrimaryDark">#051e3e</color>
+    <color name="colorAccent">#851e3e</color>
+    <color name="lightgray_background">#f3f3f3</color>
+    <!-- Background color for the museums category -->
+    <color name="category_museums">#251e3e</color>
+    <!-- Background color for the architecture category -->
+    <color name="category_architecture">#451e3e</color>
+    <!-- Background color for the parks category -->
+    <color name="category_parks">#251e3e</color>
+    <!-- Background color for the theaters category -->
+    <color name="category_theaters">#451e3e</color>
+    <!-- Background color for the food&drink category -->
+    <color name="category_fooddrink">#251e3e</color>
+</resources>

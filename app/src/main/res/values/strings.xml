@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Visit Warsaw</string>
+    <string name="category_architecture">Architecture</string>
+    <string name="category_fooddrink">Food</string>
+    <string name="category_museums">Museums</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_theaters">Theaters</string>
+    <!-- Strings for ARCHIITECTURE CATEGORY - place name -->
+    <string name="architecture_placename_palaceofcultureandscience">Palace of Culture and Science</string>
+    <string name="architecture_placename_ufficioprimo">Ufficio Primo</string>
+    <string name="architecture_placename_warsawbarbican">Warsaw Barbican</string>
+    <string name="architecture_placename_holytrinitychurch">Holy Trinity Church</string>
+    <!-- Strings for architecture category - place address -->
+    <string name="architecture_placeaddress_palaceofcultureandscience">Warsaw, Śródmieście \nPlac Defilad 1</string>
+    <string name="architecture_placeaddress_ufficioprimo">Warsaw, Śródmieście \nWspólna 62</string>
+    <string name="architecture_placeaddress_warsawbarbican">Warsaw Old Town</string>
+    <string name="architecture_placeaddress_holytrinitychurch">Warsaw, Śródmieście \nplac Stanisława Małachowskiego 1</string>
+    <!-- Strings for architecture category - place description -->
+    <string name="architecture_placedescription_palaceofcultureandscience">Palace of Culture and Science</string>
+    <string name="architecture_placedescription_ufficioprimo">Ufficio Primo is a building, constructed in the 50-ies of the 20th century and inspired by the Italian Renaissance. The object offers about 4,287 sq m of top class, rentable office space. Thanks to the modernization in 2011 the object has gained an unprecedented image: the sophisticated combination of style, prestige and functionality. The central part of the Ufficio Primo edifice is its spectacular patio - internal courtyard covered with a futuristic dome. The construction of the building ensures efficient and flexible design of interiors. Additional amenity is a modern and fully equipped conference centre, located in two underground levels.</string>
+    <string name="architecture_placedescription_warsawbarbican">The Warsaw Barbican (Polish: barbakan warszawski) is a barbican (semicircular fortified outpost) in Warsaw, Poland, and one of few remaining relics of the complex network of historic fortifications that once encircled Warsaw. Located between the Old and New Towns, it is a major tourist attraction.</string>
+    <string name="architecture_placedescription_holytrinitychurch">The Holy Trinity Evangelical Church of the Augsburg Confession (Polish: Kościół Świętej Trójcy), also known as Zugs Protestant Church (Polish: Zbór Zuga) is a Lutheran church in Warsaw, Poland. This is one of two Augsburg Evangelical churches in Warsaw. Designed and constructed by Szymon Bogumił Zug, it is one of the largest churches in Warsaw and one of the most notable for its design.</string>
+    <!-- Next category -->
+    <!-- Strings for FOOD DRINK CATEGORY - place name -->
+    <string name="fooddrink_placename_krowarzywa">Krowarzywa</string>
+    <string name="fooddrink_placename_prasowy">Prasowy</string>
+    <!-- Strings for food drink category - place address -->
+    <string name="fooddrink_placeaddress_krowarzywa">Warsaw, Śródmieście \nHoża 29/31</string>
+    <string name="fooddrink_placeaddress_prasowy">Warsaw, Śródmieście \nMarszałkowska 10/16</string>
+    <!-- Strings for food drink category - place description -->
+    <string name="fooddrink_placedescription_krowarzywa">Best vegan burgers in Warsaw</string>
+    <string name="fooddrink_placedescription_prasowy">Milk bar from the past</string>
+    <!-- Next category -->
+    <!-- Strings for MUSEUMS CATEGORY - place name -->
+    <string name="museums_placename_mnw">National Museum in Warsaw (MNW)</string>
+    <string name="museums_placename_msn">Museum of Modern Art</string>
+    <string name="museums_placename_zacheta">Zachęta Gallery</string>
+    <!-- Strings for museums category - place address -->
+    <string name="museums_placeaddress_mnw">Warsaw, Śródmieście \nAleje Jerozolimskie 3</string>
+    <string name="museums_placeaddress_msn">Warsaw, Śródmieście \nWybrzeże Kościuszkowskie 22</string>
+    <string name="museums_placeaddress_zacheta">Warsaw, Śródmieście \nplac Stanisława Małachowskiego 3</string>
+    <!-- Strings for museums category - place description -->
+    <string name="museums_placedescription_mnw">The National Museum in Warsaw (Polish: Muzeum Narodowe w Warszawie), popularly abbreviated as MNW, is a national museum in Warsaw, one of the largest museums in Poland and the largest in the capital. It comprises a rich collection of ancient art (Egyptian, Greek, Roman), counting about 11,000 pieces, an extensive gallery of Polish painting since the 16th century and a collection of foreign painting (Italian, French, Flemish, Dutch, German and Russian) including some paintings from Adolf Hitlers private collection, ceded to the Museum by the American authorities in post-war Germany. The museum is also home to numismatic collections, a gallery of applied arts and a department of oriental art, with the largest collection of Chinese art in Poland, comprising some 5,000 objects. The Museum boasts the Faras Gallery with Europes largest collection of Nubian Christian art and the Gallery of Medieval Art with artefacts from all regions historically associated with Poland, supplemented by selected works created in other regions of Europe.</string>
+    <string name="museums_placedescription_msn">The Museum by the Vistula is located at Wybrzeże Kościuszkowskie 22, next to the Copernicus Science Centre and the University of Warsaw Library, in a pavilion designed by Austrian architect Adolf Krischanitz.This pavilion was previously (between 2008 and 2010) used as a temporary abode of the Kunsthalle in Berlin. It was lent to the Museum free of charge by the Viennese Thyssen-Bornermisza Art Contemporary foundation, established in 2002 by Francesca bon Habsburg, which disseminates experimental art and architecture. The Museum on the Vistula’s façade – in accordance with the architect’s design – will be completely covered with paintings.In 2016 Sławomir Pawszak won the contest for the façade’s project. His work was applied to the building’s elevations in the spring of 2017, after the Museum opened for business. The pavilion also houses a café, a bookstore and a small education centre. It’s surrounded by terraces perfect for outdoor activities.</string>
+    <string name="museums_placedescription_zacheta">Zachęta – National Gallery of Art is an institution whose mission is to popularise contemporary art as an important element of socio-cultural life. A place where the most interesting phenomena of 20th and 21st century art are presented.</string>
+    <!-- Next category -->
+    <!-- Strings for PARKS CATEGORY - place name -->
+    <string name="parks_placename_lazienki">Łazienki Park</string>
+    <string name="parks_placename_saski">Park Saski</string>
+    <string name="parks_placename_wilanow">Wilanów</string>
+    <!-- Strings for parks category - place address -->
+    <string name="parks_placeaddress_lazienki">Warsaw, Śródmieście \nLazienki Królewskie</string>
+    <string name="parks_placeaddress_saski">Warsaw, Śródmieście \nWybrzeże Kościuszkowskie 22</string>
+    <string name="parks_placeaddress_wilanow">Warsaw, Mokotów \nWiertnicza 10</string>
+    <!-- Strings for parks category - place description -->
+    <string name="parks_placedescription_lazienki">Łazienki Park (Polish: Park Łazienkowski or Łazienki Królewskie: "Baths Park" or "Royal Baths"; also rendered "Royal Baths Park") is the largest park in Warsaw, Poland, occupying 76 hectares of the city center.</string>
+    <string name="parks_placedescription_saski">Łazienki Park (Polish: Park Łazienkowski or Łazienki Królewskie: \"Baths Park\" or \"Royal Baths\"; also rendered \"Royal Baths Park\") is the largest park in Warsaw, Poland, occupying 76 hectares of the city center.</string>
+    <string name="parks_placedescription_wilanow">Zachęta – National Gallery of Art is an institution whose mission is to popularise contemporary art as an important element of socio-cultural life. A place where the most interesting phenomena of 20th and 21st century art are presented.</string>
+    <!-- Next category -->
+    <!-- Strings for THEATERS CATEGORY - place name -->
+    <string name="theaters_placename_narodowy">National Theater</string>
+    <string name="theaters_placename_dramatyczny">Dramatyczny Theater</string>
+    <string name="theaters_placename_powszechny">Powszechny Theater</string>
+    <!-- Strings for parks category - place address -->
+    <string name="theaters_placeaddress_narodowy">Warsaw, Śródmieście \nAleje Jerozolimskie 3</string>
+    <string name="theaters_placeaddress_dramatyczny">Warsaw, Śródmieście \nPlac Defilad 1</string>
+    <string name="theaters_placeaddress_powszechny">Warsaw, Praga Południe \nZamoyskiego 1</string>
+    <!-- Strings for parks category - place description -->
+    <string name="theaters_placedescription_narodowy">The oldest and the biggest</string>
+    <string name="theaters_placedescription_dramatyczny">The Museum by the Vistula is located at Wybrzeże Kościuszkowskie 22, next to the Copernicus Science Centre and the University of Warsaw Library, in a pavilion designed by Austrian architect Adolf Krischanitz.This pavilion was previously (between 2008 and 2010) used as a temporary abode of the Kunsthalle in Berlin. It was lent to the Museum free of charge by the Viennese Thyssen-Bornermisza Art Contemporary foundation, established in 2002 by Francesca bon Habsburg, which disseminates experimental art and architecture. The Museum on the Vistula’s façade – in accordance with the architect’s design – will be completely covered with paintings.In 2016 Sławomir Pawszak won the contest for the façade’s project. His work was applied to the building’s elevations in the spring of 2017, after the Museum opened for business. The pavilion also houses a café, a bookstore and a small education centre. It’s surrounded by terraces perfect for outdoor activities.</string>
+    <string name="theaters_placedescription_powszechny">Zachęta – National Gallery of Art is an institution whose mission is to popularise contemporary art as an important element of socio-cultural life. A place where the most interesting phenomena of 20th and 21st century art are presented.</string>
+</resources>
